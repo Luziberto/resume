@@ -14,12 +14,12 @@ export default function Translate () {
 
     return (
         <div className="flex justify-center w-full" role="group">
-            <button
+            {/* <button
                 type="button"
                 onClick={ () => changeLanguage("en") }
                 className={ `py-1 px-2 text-sm font-medium text-gray-900 ${ i18n.language === 'en' ? "bg-neutral-300" : "bg-white" } rounded-l border border-gray-200 hover:bg-gray-100 hover:text-blue-700`}>
                 <img src={ flag_us } alt="English" width="18" className="rounded-sm" />
-            </button>
+            </button> */}
             {/* <button
                 type="button"
                 onClick={ () => changeLanguage("de") }

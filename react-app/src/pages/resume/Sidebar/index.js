@@ -8,7 +8,7 @@ function Sidebar () {
             <div className="md:border-r print:border-r print:pr-2 md:border-neutral-300 h-full mt-4 grid grid-cols-2 gap-6 md:gap-4 md:flex md:flex-col print:flex print:flex-col">
                 <Contacts/>
                 <Education/>
-                <Awards/>
+                {/* <Awards/> */}
                 <Skills/>
             </div>
         </aside>

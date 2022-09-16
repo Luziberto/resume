@@ -1,7 +1,8 @@
 [
-    { "id": 1, "name": "Javascript", "percent": "85%" },
+    { "id": 1, "name": "Javascript", "percent": "75%" },
     { "id": 2, "name": "PHP/Laravel", "percent": "90%" },
-    { "id": 3, "name": "Node.js", "percent": "85%" },
+    { "id": 3, "name": "Node.js", "percent": "50%" },
     { "id": 4, "name": "Vue.js", "percent": "80%" },
-    { "id": 5, "name": "React|Angular", "percent": "55%" }
+    { "id": 5, "name": "React", "percent": "50%" },
+    { "id": 5, "name": "Tallstack", "percent": "60%" }
 ]

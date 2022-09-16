@@ -3,7 +3,7 @@ const resume = {
         part1: "Test EN"
     },
     profile: {
-        name: "Luciano Braga",
+        name: "Luziberto Mendes",
         title: "Senior Full Stack Developer ",
         description: "Involved with web development since 2007, always with a keen interest in solving everyday problems by applying technology, especially computer programming, using languages for Web, Mobile or Desktop."
     },
@@ -55,7 +55,7 @@ const resume = {
                 period: "MAR/2016 - AGO/2016",
                 role: "Frontend Developer",
                 location: "São Paulo, Brazil",
-                company: "Amagafa Tech",
+                company: "Box3 - Indústria de Desenvolvimento de Software",
                 description: 'As part of a 10-person team, we built an e-learning tool for first-time and refresher driver\'s license training.'
             },
             iblue: {
