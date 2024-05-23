@@ -31,7 +31,7 @@ const resume = {
         title: "Experiência Profissional",
         companies: [
             {
-                period: "JAN/2023 - MAI/2023",
+                period: "JAN/2023 - FEV/2024",
                 role: "Software Development Engineer",
                 location: "Tenessi, EUA",
                 company: "Rockstar Agent",
