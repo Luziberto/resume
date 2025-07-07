@@ -31,6 +31,14 @@ const resume = {
         title: "Experiência Profissional",
         companies: [
             {
+                period: "MAI/2024 - ABR/2025",
+                role: "Engenheiro de software",
+                location: "Ceará, Brasil",
+                company: "Grupo PluralMed",
+                description: 'Sustentabilidade e criação de novas features para o sistema hospitalar vituz.app. Utilizando de design patterns e boas praticas SOLID para solução de problemas, escalabilidade, reaproveitamento e testabilidade do projeto.Sustentabilidade e criação de novas features para o sistema hospitalar vituz.app. Utilizando de design patterns e boas praticas SOLID para solução de problemas, escalabilidade, reaproveitamento e testabilidade do projeto.',
+                technologies: ['Laravel/php', 'Vue 3', 'Typescript', 'InertiaJs', 'SOLID', 'Design Patterns', 'HEROKU', 'S3']
+            },
+            {
                 period: "JAN/2023 - FEV/2024",
                 role: "Software Development Engineer",
                 location: "Tenessi, EUA",
